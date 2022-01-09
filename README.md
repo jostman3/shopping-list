@@ -1,3 +1,5 @@
 - tortillas
 - ground pork
 - sour cream
+- onion
+- cheese
